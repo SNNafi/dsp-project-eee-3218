@@ -3,6 +3,7 @@
 % Section : C
 % Group   : C1
 % Github  : https://github.com/SNNafi/dsp-project-eee-3218
+% Question: 6
 
 % Please run Question3And4.m before this, to generate seperate audio file
 

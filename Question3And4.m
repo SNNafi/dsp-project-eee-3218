@@ -3,7 +3,7 @@
 % Section : C
 % Group   : C1
 % Github  : https://github.com/SNNafi/dsp-project-eee-3218
-
+% Question: 3 & 4
 
 clc;
 clear all;
@@ -14,7 +14,7 @@ audioNames = ["Guitar", "Piano", "Trumpet", "Violin"];
 
 % Guiter
 
-PBE_Guiter = 1;
+PBE_Guiter = 0;
 TW_Guiter = 2000-PBE_Guiter;
 delf_Guiter = TW_Guiter/Fs;
 M_Guiter = round(5.5/delf_Guiter); 

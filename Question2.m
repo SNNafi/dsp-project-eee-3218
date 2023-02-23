@@ -3,6 +3,7 @@
 % Section : C
 % Group   : C1
 % Github  : https://github.com/SNNafi/dsp-project-eee-3218
+% Question: 2
 
 clc;
 clear all;
